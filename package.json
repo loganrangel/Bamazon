@@ -1,0 +1,19 @@
+{
+  "name": "bamazon",
+  "version": "0.0.1",
+  "description": "CLI app",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loganrangel/Bamazon.git"
+  },
+  "author": "LA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/loganrangel/Bamazon/issues"
+  },
+  "homepage": "https://github.com/loganrangel/Bamazon#readme"
+}
